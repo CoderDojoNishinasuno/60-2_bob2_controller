@@ -1,6 +1,13 @@
 
 > このページを開く [https://coderdojonishinasuno.github.io/60-2_bob2_controller/](https://coderdojonishinasuno.github.io/60-2_bob2_controller/)
 
+## 説明
+Breakout board2のタンクを運転するためには、別のmicro:bitを準備して無線で制御するのがよい。
+ここではそのコントローラーのコードを紹介する。
+
+## 使い方
+
+
 ## 拡張機能として使用
 
 このリポジトリは、MakeCode で **拡張機能** として追加できます。
